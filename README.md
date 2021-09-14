@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to Sensei's Forensics. Here, you'll find everything related to content I've put up on my channel - be it code, images, or any other media content. 
+
+Let's get to work!⚡
 
 <!--
 **sensei4n6/sensei4n6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
